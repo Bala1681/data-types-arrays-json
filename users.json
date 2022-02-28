@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "Balavignesh",
+    "email": "bala@gmail.com",
+    "phone": "8610474898",
+    "degree": "B.E.Biomedical Engineering",
+    "summary": "I am a fresher",
+    "location": {
+      "address": "Hanuman Kovil Street",
+      "city": "Madurai",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "severus_potter"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Vel Tech ",
+      "area": "Bio medical",
+      "studyType": "Fulltime",
+      "startDate": "24-06-2016",
+      "endDate": "24-06-20220",
+      "gpa": "7.67"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": ["('Java','HTML','SQL','CSS','JavaScript')"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    { "language": "Tamil", "fluency": "professional" }
+  ],
+  "interests": [
+    {
+      "name": "Indoor games",
+      "keywords": ["('carrom', 'chess', 'Tennis')"]
+    }
+  ]
+}
